@@ -134,6 +134,11 @@
             "key": " SOUND",
             "keyColor": "cyan"
         },
+        {
+            "type": "player",
+            "key": "├󰥠",
+            "keyColor": "cyan"
+        },
 
         {
             "type": "media",
